@@ -1,0 +1,206 @@
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  [*] Windows 10 / Server 2019 Build 17763 x64 (name:WIN-TJ92I4JP3PD) (domain:cs.org) (signing:True) (SMBv1:False)
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  [+] cs.org\Administrator:Admin521@ (Pwn3d!)
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  [+] Enumerated domain user(s)
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\gwenore.michell                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\carleen.lucia                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\davine.emelda                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\katrinka.kath                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\hollyanne.mathilde             badpwdcount: 0 desc: User Password Q)Z7u2@ZEL*1
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\shaylynn.morgana               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\siusan.adan                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\bert.bessy                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\eva.loydie                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\libbie.dierdre                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lulita.rosaline                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\constance.lisetta              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\maurizia.nikaniki              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\clarita.rozalie                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\chrysa.renate                  badpwdcount: 0 desc: New User ,DefaultPassword
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\selma.aili                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kurtis.klara                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\nikolia.marieann               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\rozella.debby                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\myrah.guenevere                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\alis.mela                      badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\almire.eyde                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\pippy.gaye                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\janine.cam                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\karee.karalynn                 badpwdcount: 0 desc: New User ,DefaultPassword
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kirby.hephzibah                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jolyn.eddy                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jacquenetta.shelly             badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\chantalle.andriana             badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lanie.jemie                    badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\catina.brittaney               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kimmy.janeva                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\chlo.nicolle                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\misha.belita                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\fanny.mandy                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\mia.amargo                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\geraldine.konrad               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\rochell.catherine              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ailey.bertine                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jerrine.randa                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\glory.karil                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\corinne.celestyna              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\estella.dyanna                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\deidre.janeta                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\carlyn.lonnie                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\rochette.kass                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jayne.amelia                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\analiese.iris                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jenna.hali                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\hermia.danice                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marylee.bea                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ali.rosa                       badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\gerda.coralyn                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ingunna.brittni                badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\king.charil                    badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marielle.camellia              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\collie.bebe                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\hildagarde.marlee              badpwdcount: 18 desc: New User ,DefaultPassword
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\brinn.halimeda                 badpwdcount: 0 desc: Replication Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\christel.alameda               badpwdcount: 0 desc: User Password T]XuFhD?Ddd{
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\aeriela.julina                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\starla.erina                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\sofie.amalle                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\mommy.madonna                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\mozelle.billi                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\orly.hermina                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\brunhilda.paulette             badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\charyl.caryl                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cristionna.crin                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\carmelina.gayleen              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cherice.killian                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\donia.rosalie                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\gerladina.mersey               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\louella.isis                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\robinia.joceline               badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\fanni.mira                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kelly.alica                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\orelie.carolan                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\shoshanna.starr                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\eleanore.ronda                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\franni.katheryn                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\llewellyn.chris                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\oralla.dorothy                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kathrine.meghann               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\molly.louisa                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\sonya.issie                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\brita.genvieve                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lennard.emily                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\bonnibelle.les                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\donnie.ronna                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\blisse.adel                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\olenka.mersey                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lotte.fleurette                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\carry.bobette                  badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\brynne.florette                badpwdcount: 0 desc: Replication Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\idaline.leeanne                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\griselda.brandais              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\myrtie.judy                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ricki.kermit                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ronica.doria                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\celisse.minnaminnie            badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ginger.missie                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cecilia.nat                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\june.cinnamon                  badpwdcount: 0 desc: Replication Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ivy.carena                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\pandora.noellyn                badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\adelle.fianna                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\liza.flore                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marys.astrix                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\domini.sallee                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marleen.alissa                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\shandie.sammy                  badpwdcount: 0 desc: Replication Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lise.carolina                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\alyce.adriaens                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\allis.gena                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\emelina.mavis                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\rosalinde.rayna                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\laura.lenci                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\austin.liliane                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\janenna.ranique                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\susette.kalinda                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\margarethe.brooks              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\daffie.lyda                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lance.raeann                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lula.gayle                     badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\koral.linell                   badpwdcount: 0 desc: New User ,DefaultPassword
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\janina.lorrin                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\georgeanna.marni               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\mei.blakelee                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\becky.karena                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\joscelin.calley                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\daisey.lavina                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jana.eydie                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\donnamarie.maddy               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\maryanne.channa                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\steffi.brenna                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lilith.janene                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ida.kasey                      badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\carlotta.dodie                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\letty.cinderella               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\dru.gabriel                    badpwdcount: 0 desc: Replication Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marget.marta                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lurette.merla                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jodi.cyb                       badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\beitris.ana                    badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\harri.germain                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ronny.lurlene                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\collette.nancee                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\bobina.anallise                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\codee.malena                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\loralie.rene                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cathi.guinevere                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ree.lewiss                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\courtnay.hanna                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\debbi.conchita                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\rochell.krispin                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\clari.bonny                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\evangelin.mercedes             badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\leone.cristin                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\brittaney.keeley               badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\celinka.leoine                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\nelli.amabel                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ernestine.debra                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\clea.madelaine                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cary.sherline                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jacintha.brita                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marylee.celle                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\sheela.jemie                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\codie.imelda                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\auberta.kaela                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\dedra.rania                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\raina.kacy                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\enriqueta.abigael              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\holli.leela                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\bobbee.katha                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\anna-diana.lillis              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\marty.charissa                 badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jo ann.reine                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\audry.diane-marie              badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kiley.stacia                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\eugine.lance                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\mandie.ealasaid                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\cammy.dinah                    badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\beatriz.didi                   badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\lida.coleen                    badpwdcount: 0 desc: Shared User
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kaylil.olympe                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\koo.concettina                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\dorita.rebeka                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\donica.lianna                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\fay.rhea                       badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\kylie.sharleen                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\melosa.idalina                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\dorolisa.konstantine           badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\jasmine.allegra                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\merridie.lita                  badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\claretta.eimile                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\gusti.rita                     badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\annis.madeline                 badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\roseann.cristin                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\ophelie.blinnie                badpwdcount: 0 desc: 
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\krbtgt                         badpwdcount: 0 desc: Key Distribution Center Service Account
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\Guest                          badpwdcount: 0 desc: Built-in account for guest access to the computer/domain
+SMB                      192.168.56.10   445    WIN-TJ92I4JP3PD  cs.org\Administrator                  badpwdcount: 0 desc: Built-in account for administering the computer/domain
